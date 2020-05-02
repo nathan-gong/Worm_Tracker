@@ -1,1 +1,5 @@
-# Worm_Tracker
+# Computational Multi-Worm Tracker
+
+**Wide-field nematode tracking platform (WF_NTP) v3.3.3** is a computer vision platform developed by Julius Kirkegaard, Pietro Sormanni, Mandy Koopman, and Quentin Peter. It has been adapted for research use in the [Apfeld Lab](http://apfeldlab.mystrikingly.com/) at Northeastern University in Boston, MA. The Apfeld Lab studies the nematode *C. elegans* to investigate the regulation of aging and oxidative stress resilience. For my current research, I am performing quality assurance testing and data analysis on quantitative locomotion data produced by WF_NTP for use in chemotaxis assays. 
+
+WF_NTP runs in Python and features a simple GUI. Instructions and information regarding the software can be found [in this paper](https://www.sciencedirect.com/science/article/pii/S016502701830027X?via%3Dihub). The original code can be found [in this repo](https://github.com/impact27/WF_NTP)
