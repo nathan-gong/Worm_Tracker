@@ -1,0 +1,88 @@
+---------------------------------
+    Results for C:/Users/Nathan Gong/Desktop/Apfeld Lab/Worm Tracking/02-28-20_worm_tracking_testing/dissecting_scope/EDITED_dissecting_food_no-peroxide_2020-02-28-132213-0000.avi 
+---------------------------------
+
+
+-------------------------------
+
+Total particles: 71
+
+CUT-OFF tool/filters
+Max particles present at same time: 14
+
+Cut-off tool: No
+Extra filter: No
+
+-------------------------------
+
+BPM Mean: 9.90949
+BPM Standard deviation: 12.42304
+BPM Error on Mean: 3.32020
+BPM Median: 0.00000
+Bends in movie Mean: 9.60670
+Bends in movie Standard deviation: 12.04344
+Bends in movie Error on Mean: 3.21875
+Bends in movie Median: 0.00000
+Speed Mean: 0.057729
+Speed Standard deviation: 0.066920
+Speed Error on Mean: 0.017885
+Speed Median: 0.043225
+90th Percentile speed Mean: 0.185500
+90th Percentile speed Standard deviation: 0.146020
+90th Percentile speed Error on mean: 0.039025
+Dist per bend Mean: 0.139477
+Dist per bend Standard deviation: 0.249113
+Dist per bend Error on Mean: 0.048855
+Moving worms: 33
+Paralyzed worms: 38
+Total worms: 14
+Moving ratio: 0.464789
+Paralyzed ratio: 0.535211
+Moving-to-paralyzed ratio: 0.868421
+Paralyzed-to-moving ratio: 1.151515
+Area Mean: 8.570560
+Area Standard Deviation: 6.251547
+Area Error on Mean: 1.670796
+Round ratio Mean: 0.596442
+Round ratio Standard deviation: 0.336609
+Round ratio Error on mean: 0.089962
+Eccentricity Mean: 0.885619
+Eccentricity Standard deviation: 0.065468
+Eccentricity Error on mean: 0.017497
+
+-------------------------------
+Moving 
+Total particles: 33
+
+-------------------------------
+
+Moving BPM Mean: 15.83514
+Moving BPM Standard deviation: 12.36063
+Moving BPM Error on Mean: 3.72687
+Moving BPM Median: 12.04013
+Moving Bends in movie Mean: 15.35129
+Moving Bends in movie Standard deviation: 11.98295
+Moving Bends in movie Error on Mean: 3.61299
+Moving Bends in movie Median: 11.67224
+Moving Speed Mean: 0.067807
+Moving Speed Standard deviation: 0.081503
+Moving Speed Error on Mean: 0.024574
+Moving Speed Median: 0.061776
+Moving 90th Percentile speed Mean: 0.218322
+Moving 90th Percentile speed Standard deviation: 0.162286
+Moving 90th Percentile speed Error on mean: 0.048931
+Moving Dist per bend Mean: 0.139477
+Moving Dist per bend Standard deviation: 0.249113
+Moving Dist per bend Error on Mean: 0.048855
+Moving Area Mean: 9.088519
+Moving Area Standard Deviation: 6.586554
+Moving Area Error on Mean: 1.985921
+Moving Round ratio Mean: 0.517336
+Moving Round ratio Standard deviation: 0.296283
+Moving Round ratio Error on mean: 0.089333
+Moving Eccentricity Mean: 0.898778
+Moving Eccentricity Standard deviation: 0.055058
+Moving Eccentricity Error on mean: 0.016601
+---------------------------------
+
+
